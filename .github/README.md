@@ -7,7 +7,7 @@ PennPaws helps Penn students find a verified fellow student to walk their dog or
 | | |
 |---|---|
 | **Team** | Lu Lu, Esther Li |
-| **Status** | Registered and designing. Core loop due Tue 11/10 |
+| **Status** | Core loop built and tested. Next: browser testing and 5 user tests |
 | **Demo day** | Tue 11/17, live on penntools.org |
 | **Code** | Branch [`team/pennpaws`](https://github.com/LuLu1016/penn-tools/tree/team/pennpaws/tools/pennpaws) |
 
